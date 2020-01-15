@@ -31,7 +31,7 @@
 
 项目演示地址： [http://www.macrozheng.com/admin/index.html](http://www.macrozheng.com/admin/index.html)  
 
-![后台管理系统功能演示.gif](https://gitee.com/macrozheng/mall/raw/master/document/resource/mall-admin.gif)
+![后台管理系统功能演示.gif](/document/resource/mall-admin.gif)
 
 #### 前台商城系统
 
@@ -39,7 +39,7 @@
 
 项目演示地址：[http://www.macrozheng.com/app/index.html](http://www.macrozheng.com/app/index.html)
 
-![前台商城系统功能演示.gif](https://gitee.com/macrozheng/mall/raw/master/document/resource/mall-app.gif)
+![前台商城系统功能演示.gif](/document/resource/mall-app.gif)
 
 ### 组织结构
 
